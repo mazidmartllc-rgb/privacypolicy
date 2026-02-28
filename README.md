@@ -137,9 +137,9 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-- **Company**: Dynamic Flare
-- **Email**: [support@dynamicflare.com](mailto:support@dynamicflare.com)
-- **Website**: [dynamicflare.com](https://dynamicflare.com)
+- **Company**: Qatfa code
+- **Email**: [qatfacode@gmail.com](mailto:qatfacode@gmail.com)
+
 
 ---
 
