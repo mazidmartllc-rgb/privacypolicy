@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-Welcome to **MazidMart Dashboard** ("the App"), operated by **Dynamic Flare** ("we," "us," or "our"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile and desktop application. Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
+Welcome to **MazidMart Dashboard** ("the App"), operated by **QatfaCode** ("we," "us," or "our"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile and desktop application. Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
